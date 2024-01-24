@@ -17,4 +17,3 @@ class swappingTwoNos {
 	}
 }
 
-// This code is contributed by Aditya Kumar (adityakumar129)
